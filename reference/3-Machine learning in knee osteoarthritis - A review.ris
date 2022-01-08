@@ -1,0 +1,32 @@
+TY  - JOUR
+T1  - Machine learning in knee osteoarthritis: A review
+AU  - Kokkotis, C.
+AU  - Moustakidis, S.
+AU  - Papageorgiou, E.
+AU  - Giakas, G.
+AU  - Tsaopoulos, D.E.
+JO  - Osteoarthritis and Cartilage Open
+VL  - 2
+IS  - 3
+SP  - 100069
+PY  - 2020
+DA  - 2020/09/01/
+SN  - 2665-9131
+DO  - https://doi.org/10.1016/j.ocarto.2020.100069
+UR  - https://www.sciencedirect.com/science/article/pii/S2665913120300583
+KW  - Knee osteoarthritis
+KW  - Feature engineering
+KW  - Machine learning
+KW  - Prediction
+KW  - Classification
+KW  - Segmentation
+AB  - Summary
+Objective
+The purpose of present review paper is to introduce the reader to key directions of Machine Learning techniques on the diagnosis and predictions of knee osteoarthritis.
+Design
+This survey was based on research articles published between 2006 and 2019. The articles were divided into four categories, namely (i) predictions/regression, (ii) classification, (iii) optimum post-treatment planning techniques and (iv) segmentation. The grouping was based on the application domain of each study.
+Results
+The survey findings are reported outlining the main characteristics of the proposed learning algorithms, the application domains, the data sources investigated and the quality of the results.
+Conclusions
+Knee osteoarthritis is a big data problem in terms of data complexity, heterogeneity and size as it has been commonly considered in the literature. Machine Learning has attracted significant interest from the scientific community to cope with the aforementioned challenges and thus lead to new automated pre- or post-treatment solutions that utilize data from the greatest possible variety of sources.
+ER  - 
