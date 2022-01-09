@@ -1,0 +1,70 @@
+PMID- 30523334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200218
+LR  - 20200218
+IS  - 1759-4804 (Electronic)
+IS  - 1759-4790 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2019 Jan
+TI  - Machine-learning-based patient-specific prediction models for knee osteoarthritis.
+PG  - 49-60
+LID - 10.1038/s41584-018-0130-5 [doi]
+AB  - Osteoarthritis (OA) is an extremely common musculoskeletal disease. However, current 
+      guidelines are not well suited for diagnosing patients in the early stages of 
+      disease and do not discriminate patients for whom the disease might progress 
+      rapidly. The most important hurdle in OA management is identifying and classifying 
+      patients who will benefit most from treatment. Further efforts are needed in patient 
+      subgrouping and developing prediction models. Conventional statistical modelling 
+      approaches exist; however, these models are limited in the amount of information 
+      they can adequately process. Comprehensive patient-specific prediction models need 
+      to be developed. Approaches such as data mining and machine learning should aid in 
+      the development of such models. Although a challenging task, technology is now 
+      available that should enable subgrouping of patients with OA and lead to improved 
+      clinical decision-making and precision medicine.
+FAU - Jamshidi, Afshin
+AU  - Jamshidi A
+AD  - Osteoarthritis Research Unit, University of Montreal Hospital Research Centre 
+      (CRCHUM), Montreal, Quebec, Canada.
+FAU - Pelletier, Jean-Pierre
+AU  - Pelletier JP
+AD  - Osteoarthritis Research Unit, University of Montreal Hospital Research Centre 
+      (CRCHUM), Montreal, Quebec, Canada.
+FAU - Martel-Pelletier, Johanne
+AU  - Martel-Pelletier J
+AD  - Osteoarthritis Research Unit, University of Montreal Hospital Research Centre 
+      (CRCHUM), Montreal, Quebec, Canada. jm@martelpelletier.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Nat Rev Rheumatol
+JT  - Nature reviews. Rheumatology
+JID - 101500080
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Clinical Decision Rules
+MH  - Clinical Decision-Making
+MH  - Data Mining/methods
+MH  - Disease Progression
+MH  - Early Diagnosis
+MH  - Female
+MH  - Humans
+MH  - *Machine Learning
+MH  - Male
+MH  - Models, Theoretical
+MH  - Osteoarthritis, Knee/classification/*diagnosis/epidemiology/*therapy
+MH  - Precision Medicine/methods
+MH  - Risk Factors
+EDAT- 2018/12/14 06:00
+MHDA- 2020/02/19 06:00
+CRDT- 2018/12/08 06:00
+PHST- 2018/12/14 06:00 [pubmed]
+PHST- 2020/02/19 06:00 [medline]
+PHST- 2018/12/08 06:00 [entrez]
+AID - 10.1038/s41584-018-0130-5 [pii]
+AID - 10.1038/s41584-018-0130-5 [doi]
+PST - ppublish
+SO  - Nat Rev Rheumatol. 2019 Jan;15(1):49-60. doi: 10.1038/s41584-018-0130-5.

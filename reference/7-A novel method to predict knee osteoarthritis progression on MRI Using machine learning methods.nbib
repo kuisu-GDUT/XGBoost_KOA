@@ -1,0 +1,76 @@
+PMID- 29994316
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190508
+LR  - 20190508
+IS  - 1558-2639 (Electronic)
+IS  - 1536-1241 (Linking)
+VI  - 17
+IP  - 3
+DP  - 2018 Jul
+TI  - A Novel Method to Predict Knee Osteoarthritis Progression on MRI Using Machine 
+      Learning Methods.
+PG  - 228-236
+LID - 10.1109/TNB.2018.2840082 [doi]
+AB  - This paper explored the hidden biomedical information from knee magnetic resonance 
+      (MR) images for osteoarthritis (OA) prediction. We have computed the cartilage 
+      damage index (CDI) information from 36 informative locations on tibiofemoral 
+      cartilage compartment from 3-D MR imaging and used principal component analysis 
+      (PCA) analysis to process the feature set. Four machine learning methods (artificial 
+      neural network (ANN), support vector machine, random forest, and naïve Bayes) were 
+      employed to predict the progression of OA, which was measured by the change of 
+      Kellgren and Lawrence (KL) grade, Joint Space Narrowing on Medial compartment (JSM) 
+      grade, and Joint Space Narrowing on Lateral compartment (JSL) grade. To examine the 
+      different effects of medial and lateral informative locations, we have divided the 
+      36-D feature set into a 18-D medial feature set and a 18-D lateral feature set and 
+      run the experiment on four classifiers separately. Experiment results showed that 
+      the medial feature set generated better prediction performance than the lateral 
+      feature set, while using the total 36-D feature set generated the best. PCA analysis 
+      is helpful in feature space reduction and performance improvement. For KL grade 
+      prediction, the best performance was achieved by ANN with AUC = 0.761 and F-measure 
+      = 0.714. For JSM grade prediction, the best performance was achieved by random 
+      forest with AUC = 0.785 and F-measure = 0.743, while for JSL grade prediction, the 
+      best performance was achieved by ANN with AUC = 0.695 and F-measure = 0.796. As 
+      experiment results showing that the informative locations on medial compartment 
+      provide more distinguishing features than informative locations on the lateral 
+      compartment, it could be considered to select more points from the medial 
+      compartment while reducing the number of points from the lateral compartment to 
+      improve clinical CDI design.
+FAU - Du, Yaodong
+AU  - Du Y
+FAU - Almajalid, Rania
+AU  - Almajalid R
+FAU - Shan, Juan
+AU  - Shan J
+FAU - Zhang, Ming
+AU  - Zhang M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20180524
+PL  - United States
+TA  - IEEE Trans Nanobioscience
+JT  - IEEE transactions on nanobioscience
+JID - 101152869
+SB  - IM
+MH  - Aged
+MH  - Cartilage, Articular/diagnostic imaging/pathology
+MH  - Disease Progression
+MH  - Female
+MH  - Humans
+MH  - Image Interpretation, Computer-Assisted/*methods
+MH  - *Machine Learning
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis, Knee/*diagnostic imaging/pathology
+EDAT- 2018/07/12 06:00
+MHDA- 2019/05/09 06:00
+CRDT- 2018/07/12 06:00
+PHST- 2018/07/12 06:00 [pubmed]
+PHST- 2019/05/09 06:00 [medline]
+PHST- 2018/07/12 06:00 [entrez]
+AID - 10.1109/TNB.2018.2840082 [doi]
+PST - ppublish
+SO  - IEEE Trans Nanobioscience. 2018 Jul;17(3):228-236. doi: 10.1109/TNB.2018.2840082. 
+      Epub 2018 May 24.

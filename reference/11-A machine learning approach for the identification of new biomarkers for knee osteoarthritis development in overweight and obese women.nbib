@@ -1,0 +1,119 @@
+PMID- 28899843
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180718
+LR  - 20180718
+IS  - 1522-9653 (Electronic)
+IS  - 1063-4584 (Linking)
+VI  - 25
+IP  - 12
+DP  - 2017 Dec
+TI  - A machine learning approach for the identification of new biomarkers for knee 
+      osteoarthritis development in overweight and obese women.
+PG  - 2014-2021
+LID - S1063-4584(17)31195-0 [pii]
+LID - 10.1016/j.joca.2017.09.001 [doi]
+AB  - OBJECTIVE: Knee osteoarthritis (OA) is among the higher contributors to global 
+      disability. Despite its high prevalence, currently, there is no cure for this 
+      disease. Furthermore, the available diagnostic approaches have large precision 
+      errors and low sensitivity. Therefore, there is a need for new biomarkers to 
+      correctly identify early knee OA. METHOD: We have created an analytics pipeline 
+      based on machine learning to identify small models (having few variables) that 
+      predict the 30-months incidence of knee OA (using multiple clinical and structural 
+      OA outcome measures) in overweight middle-aged women without knee OA at baseline. 
+      The data included clinical variables, food and pain questionnaires, biochemical 
+      markers (BM) and imaging-based information. RESULTS: All the models showed high 
+      performance (AUC > 0.7) while using only a few variables. We identified both the 
+      importance of each variable within the models as well its direction. Finally, we 
+      compared the performance of two models with the state-of-the-art approaches 
+      available in the literature. CONCLUSIONS: We showed the potential of applying 
+      machine learning to generate predictive models for the knee OA incidence. 
+      Imaging-based information were found particularly important in the proposed models. 
+      Furthermore, our analysis confirmed the relevance of known BM for knee OA. Overall, 
+      we propose five highly predictive small models that can be possibly adopted for an 
+      early prediction of knee OA.
+CI  - Copyright © 2017 Osteoarthritis Research Society International. Published by 
+      Elsevier Ltd. All rights reserved.
+FAU - Lazzarini, N
+AU  - Lazzarini N
+AD  - ICOS Research Group, School of Computing, Newcastle University, UK; D-BOARD 
+      Consortium, An FP7 Programme By the European Committee.
+FAU - Runhaar, J
+AU  - Runhaar J
+AD  - D-BOARD Consortium, An FP7 Programme By the European Committee; Erasmus University 
+      Medical Center Rotterdam, the Netherlands, Dept. of General Practice.
+FAU - Bay-Jensen, A C
+AU  - Bay-Jensen AC
+AD  - D-BOARD Consortium, An FP7 Programme By the European Committee; Nordic Bioscience, 
+      Copenhagen, Denmark.
+FAU - Thudium, C S
+AU  - Thudium CS
+AD  - D-BOARD Consortium, An FP7 Programme By the European Committee; Nordic Bioscience, 
+      Copenhagen, Denmark.
+FAU - Bierma-Zeinstra, S M A
+AU  - Bierma-Zeinstra SMA
+AD  - D-BOARD Consortium, An FP7 Programme By the European Committee; Erasmus University 
+      Medical Center Rotterdam, the Netherlands, Dept. of General Practice; Erasmus 
+      University Medical Center Rotterdam, the Netherlands, Dept. of Orthopedics.
+FAU - Henrotin, Y
+AU  - Henrotin Y
+AD  - D-BOARD Consortium, An FP7 Programme By the European Committee; University of Liège, 
+      Belgium; Artialis SA, Liège, Belgium.
+FAU - Bacardit, J
+AU  - Bacardit J
+AD  - ICOS Research Group, School of Computing, Newcastle University, UK; D-BOARD 
+      Consortium, An FP7 Programme By the European Committee. Electronic address: 
+      jaume.bacardit@newcastle.ac.uk.
+LA  - eng
+PT  - Journal Article
+DEP - 20170909
+PL  - England
+TA  - Osteoarthritis Cartilage
+JT  - Osteoarthritis and cartilage
+JID - 9305697
+RN  - 0 (Biomarkers)
+RN  - 0 (Collagen Type I)
+RN  - 0 (Collagen Type II)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (collagen type II (108-116), (NO2)Tyr(111)-)
+SB  - IM
+MH  - Arthralgia/*blood/epidemiology
+MH  - Biomarkers/blood
+MH  - Collagen Type I/blood
+MH  - Collagen Type II/blood
+MH  - Comorbidity
+MH  - Diet
+MH  - Female
+MH  - Fruit
+MH  - Heuristics
+MH  - Humans
+MH  - Incidence
+MH  - *Machine Learning
+MH  - Middle Aged
+MH  - Muscle Strength
+MH  - Obesity/*epidemiology
+MH  - Osteoarthritis, Knee/blood/diagnostic imaging/*epidemiology
+MH  - Overweight/epidemiology
+MH  - Peptide Fragments/blood
+MH  - Principal Component Analysis
+MH  - Quadriceps Muscle
+MH  - Reproducibility of Results
+OTO - NOTNLM
+OT  - *Incidence
+OT  - *Knee osteoarthritis
+OT  - *Machine learning
+OT  - *Prediction
+EDAT- 2017/09/14 06:00
+MHDA- 2018/07/19 06:00
+CRDT- 2017/09/14 06:00
+PHST- 2017/05/08 00:00 [received]
+PHST- 2017/08/16 00:00 [revised]
+PHST- 2017/09/02 00:00 [accepted]
+PHST- 2017/09/14 06:00 [pubmed]
+PHST- 2018/07/19 06:00 [medline]
+PHST- 2017/09/14 06:00 [entrez]
+AID - S1063-4584(17)31195-0 [pii]
+AID - 10.1016/j.joca.2017.09.001 [doi]
+PST - ppublish
+SO  - Osteoarthritis Cartilage. 2017 Dec;25(12):2014-2021. doi: 
+      10.1016/j.joca.2017.09.001. Epub 2017 Sep 9.

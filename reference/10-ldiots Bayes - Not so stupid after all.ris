@@ -1,0 +1,24 @@
+Provider: JSTOR http://www.jstor.org
+Database: JSTOR
+Content: text/plain; charset="us-ascii"
+
+
+TY  - JOUR
+AB  - Folklore has it that a very simple supervised classification rule, based on the typically false assumption that the predictor variables are independent, can be highly effective, and often more effective than sophisticated rules. We examine the evidence for this, both empirical, as observed in real data applications, and theoretical, summarising explanations for why this simple rule might be effective. /// La tradition veut qu'une r&#xe8;gle tr&#xe8;s simple assumant l'independance des variables pr&#xe9;dictives, une hypoth&#xe8;se fausse dans la plupart des cas, peut &#xea;tre tr&#xe8;s efficace, souvent m&#xea;me plus efficace qu'une m&#xe9;thode plus sophistiqu&#xe9;e en ce qui concerne l'attribution de classes a un groupe d'objects. A ce sujet, nous examinons les preuves empiriques, observ&#xe9;es sur des donn&#xe9;es r&#xe9;elles, et les preuves th&#xe9;oriques, c'est-a-dire les raisons pour lesquelles cette simple r&#xe8;gle pourrait faciliter le processus de tri.
+AU  - Hand, David J.
+AU  - Yu, Keming
+C1  - Full publication date: Dec., 2001
+DB  - JSTOR
+DO  - 10.2307/1403452
+EP  - 398
+IS  - 3
+PB  - [Wiley, International Statistical Institute (ISI)]
+PY  - 2001
+SN  - 03067734, 17515823
+SP  - 385
+T2  - International Statistical Review / Revue Internationale de Statistique
+TI  - Idiot's Bayes: Not So Stupid after All?
+UR  - http://www.jstor.org/stable/1403452
+VL  - 69
+Y2  - 2022/01/09/
+ER  - 
